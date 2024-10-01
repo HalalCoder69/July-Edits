@@ -1,0 +1,15 @@
+CSS ? 
+there are three way to apply css.
+
+1) inline css
+2) Internal Css
+3) External Css
+
+
+Selector?
+there are 4 types of Selector
+
+1) Class Selector      .header
+2) ID Selector         #nav
+3) Element Selector    h1,p,img,input,a
+4) Universal Selector  *
